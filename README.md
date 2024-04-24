@@ -34,9 +34,9 @@ python MachineProj.py
 
 Here is what you are expected to see:
 
-![Initial interface](screenshot/kermit_intro.png)
+![Initial interface](screenshot/kermit_intro.PNG)
 
-![Image Analysis](screenshot/resulting.png)
+![Image Analysis](screenshot/resulting.PNG)
 
 ## License 
 This project is licensed under the MIT License - see the LICENSE file for details.
